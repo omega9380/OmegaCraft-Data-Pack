@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:slime_block"
+  },
+  "result": "minecraft:sponge",
+  "experience": 2.0,
+  "cookingtime": 250
+}
