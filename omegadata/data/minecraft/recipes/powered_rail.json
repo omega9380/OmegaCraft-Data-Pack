@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "I#I",
+    "XRX"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:gold_nugget"
+    },
+	"I": {
+	  "item": "minecraft:iron_ingot"
+	}
+  },
+  "result": {
+    "item": "minecraft:powered_rail",
+    "count": 12
+  }
+}

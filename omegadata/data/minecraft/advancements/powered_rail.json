@@ -1,0 +1,24 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Powered Rails"
+        },
+        "description": {
+            "text": "Advancements in manufacturing technology have created a powered rail that uses a gold alloy instead of pure gold!  Cheaper to craft!"
+        },
+        "icon": {
+            "item": "minecraft:powered_rail"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "minecraft:root"
+}

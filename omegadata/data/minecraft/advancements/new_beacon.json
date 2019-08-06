@@ -1,0 +1,24 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Easier Beacons"
+        },
+        "description": {
+            "text": "New crafting advancements have developed a new way to craft beacons!"
+        },
+        "icon": {
+            "item": "minecraft:beacon"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "minecraft:root"
+}

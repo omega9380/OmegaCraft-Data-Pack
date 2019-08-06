@@ -1,0 +1,24 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Bleached Wool"
+        },
+        "description": {
+            "text": "Using a generous helping of bone meal, bleach out those colored wools to pure white!"
+        },
+        "icon": {
+            "item": "minecraft:white_wool"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "minecraft:root"
+}
