@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DA",
+    "AD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diorite"
+    },
+    "A": {
+      "item": "minecraft:andesite"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone",
+    "count": 4
+  }
+}
